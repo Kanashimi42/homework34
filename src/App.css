@@ -1,0 +1,9 @@
+.nav {
+}
+.menu {
+    display: flex;
+    align-items: center;
+    gap: 25px;
+}
+.menu__item {
+}
